@@ -50,12 +50,6 @@ Sensors → ESP32/ESP8266 → WiFi → IoT Dashboard → User
 ↓
 Relay → Water Pump
 
----
-
-## 📸 Project Images
-
-![Project Image](images/project1.jpg)  
-![Circuit Diagram](images/circuit.png)  
 
 ---
 
