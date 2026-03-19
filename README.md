@@ -53,7 +53,6 @@ Relay → Water Pump
 ---
 
 ## 📸 Project Images
-(Add your images here)
 
 ![Project Image](images/project1.jpg)  
 ![Circuit Diagram](images/circuit.png)  
